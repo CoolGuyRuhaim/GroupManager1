@@ -33,7 +33,7 @@ Made from the source code of [⌚️09:59:47 🔥@DontBelieveAnybody🔥 📅16.
 
 Special thanks to [this person](t.me/Yash_MK) for helping me.
 
-Deploy a bot like me [now](www.github.com/xditya/GroupManager1)
+Deploy a bot like me [now](www.github.com/CoolGuyRuhaim/GroupManager1)
 
 Watch [video tutorial](https://www.youtube.com/watch?v=gXXFpTAk6Vo&feature=youtu.be) on deploying me.
 
