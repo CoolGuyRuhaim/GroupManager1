@@ -56,7 +56,7 @@ USER_SETTINGS = {}
 
 GDPR = []
 
-for module_name in ALL_MODULES:
+for module_name in ALL2_MODULES:
     imported_module = importlib.import_module("haruka.modules." + module_name)
     if not hasattr(imported_module, "__mod_name__"):
         imported_module.__mod_name__ = imported_module.__name__
